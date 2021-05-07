@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Instead of brain"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "개발 지식 뇌대신 저장해줘" # site tagline that appears below site title in masthead
 name                     : "jmoriatie"
-description              : "뇌대신 저장해줘"
+description              : "개발 지식 뇌대신 저장해줘"
 url                      : "https://jmoriatie.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
